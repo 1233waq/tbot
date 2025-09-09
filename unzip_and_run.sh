@@ -1,4 +1,4 @@
 #!/bin/bash
-unzip mybot.zip -d mybot
+unzip kh1.zip -d mybot
 cd mybot
-python bot.py
+python khavar6.py
