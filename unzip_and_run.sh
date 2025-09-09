@@ -1,3 +1,4 @@
-unzip khavar - Copy.zip -d mybot
+#!/bin/bash
+unzip mybot.zip -d mybot
 cd mybot
-python khavar5.py
+python bot.py
